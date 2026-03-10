@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std; 
 
 //Prosedur input
 void inputData(float &berat, float &tinggi)
